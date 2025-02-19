@@ -1,4 +1,4 @@
 # workshop-docker
 
 ## Docker Projects
-- [Wordpress + MariaDB + Nginx]()
+- [Wordpress + MariaDB + Nginx](./wordpress/)
